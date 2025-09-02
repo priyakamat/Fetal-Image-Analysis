@@ -1,1 +1,1 @@
-A comprehensive deep-learning framework for fetal ultrasound analysis. Its main novelty is a trimester-aware approach that uses a denoising autoencoder for preprocessing, an ensemble of seven models for robust segmentation of head circumference (HC) and femur length (FL), and a novel "multi-input" DenseNet121 network for trimester classification
+
